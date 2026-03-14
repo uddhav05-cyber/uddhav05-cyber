@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff87&height=200&section=header&text=Uddhav%20Bhople&fontSize=50&fontColor=000000&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20Cloud%20%7C%20DevOps%20%2F%20MLOps&descAlignY=55&descSize=18&descColor=000000" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Uddhav%20Bhople&fontSize=40)
 
 </div>
 
