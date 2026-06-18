@@ -18,16 +18,15 @@
 name: Uddhav Bhople
 location: Pune, Maharashtra, India
 education: B.Tech Computer Engineering @ DY Patil University (CGPA: 8.27)
-current_role: Web Dev Intern @ YUVA – NSDC
+current_role: Back-end AI Engineering Intern @ FlyRank.ai
 focus_areas:
-  - MLOps & AI Infrastructure
   - DevOps & Cloud (AWS / Azure / GCP)
   - Retrieval-Augmented Generation (RAG)
   - Full-Stack Development
 certifications:
   - Microsoft Beta-MLSA 2026
   - Oracle Cloud AI Foundations
-  - 117 Azure Badges + 22 Trophies
+  - 46 Azure Badges + 22 Trophies
   - Google Gen AI Exchange (Active)
 quote: "Intelligence is what I build. Natural Intelligence is what I bring."
 ```
@@ -41,7 +40,7 @@ quote: "Intelligence is what I build. Natural Intelligence is what I bring."
 <td width="50%">
 
 ### 🏢 YUVA Intern — NSDC
-**Sep 2025 – Present**
+**Sep 2025 – Nov 2025**
 - ML-Driven FinOps & Cloud Cost Prediction
 - Auto-Terraform: AI-powered IaC automation
 - Enterprise RAG with Claude 3.5 + Amazon Bedrock
@@ -62,18 +61,6 @@ quote: "Intelligence is what I build. Natural Intelligence is what I bring."
 </td>
 </tr>
 
-</td>
-<td width="50%">
-
-### 🎓 Google Cloud Gen AI Academy APAC 
-**Active 2026**
-- Generative AI & LLMs
-- Google Kubernetes Engine (GKE)
-- Ethical AI principles
-- Cloud-native AI applications
-
-</td>
-</tr>
 </table>
 
 ---
@@ -84,8 +71,8 @@ quote: "Intelligence is what I build. Natural Intelligence is what I bring."
 
 | 🥇 Achievement | 📅 Year |
 |---|---|
-| 🪟 **Microsoft Beta-MLSA** — Beta milestone in MLSA global community | 2026 |
-| ☁️ **117 Azure Badges + 22 Trophies** on Microsoft Learn | 2025-26 |
+| 🪟 **Microsoft Associate-MLSA** — Associate milestone in MLSA global community | 2026 |
+| ☁️ **46 Azure Badges + 22 Trophies** on Microsoft Learn | 2025-26 |
 | 🔐 **Oracle Cloud AI Foundations** Certified | 2025 |
 | 🤖 **IBM Data Science** Certified | 2025 |
 | 🎓 **Google Student Ambassador** | 2025 |
