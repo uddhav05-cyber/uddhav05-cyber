@@ -1,219 +1,233 @@
-<div align="center">
+# Hey, I'm Uddhav Bhople 👋
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Uddhav%20Bhople&fontSize=40)
+### AI Engineer in Progress · Software Engineer · Cloud & DevOps Enthusiast
 
-</div>
+I'm a **B.Tech Computer Science student at DY Patil University, Pune**, focused on building **production-oriented AI systems, intelligent developer tools, and scalable cloud applications**.
 
-<div align="center">
+I enjoy working at the intersection of **AI/ML, software engineering, cloud infrastructure, and developer tooling** — turning ideas into systems that can actually be deployed, tested, and maintained.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00FF87&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Intelligence+is+what+I+build.;Natural+Intelligence+is+what+I+bring.)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-```yaml
-name: Uddhav Bhople
-location: Pune, Maharashtra, India
-education: B.Tech Computer Engineering @ DY Patil University (CGPA: 8.27)
-current_role: Back-end AI Engineering Intern @ FlyRank.ai
-focus_areas:
-  - DevOps & Cloud (AWS / Azure / GCP)
-  - Retrieval-Augmented Generation (RAG)
-  - Full-Stack Development
-certifications:
-  - Microsoft Beta-MLSA 2026
-  - Oracle Cloud AI Foundations
-  - 46 Azure Badges + 22 Trophies
-  - Google Gen AI Exchange (Active)
-quote: "Intelligence is what I build. Natural Intelligence is what I bring."
+```text
+AI Engineering  →  RAG • LLMs • Agents • ML Systems
+Software        →  Python • TypeScript • React • APIs
+Cloud           →  AWS • Azure • GCP • Infrastructure
+Engineering     →  Testing • CI/CD • Git • System Design
 ```
 
 ---
 
-## 🚀 Experience
+## 🚀 What I'm Building
 
-<table>
-<tr>
-<td width="50%">
+Currently focused on becoming a **production-ready AI Engineer** by building systems with real engineering constraints:
 
-### 🏢 YUVA Intern — NSDC
-**Sep 2025 – Nov 2025**
-- ML-Driven FinOps & Cloud Cost Prediction
-- Auto-Terraform: AI-powered IaC automation
-- Enterprise RAG with Claude 3.5 + Amazon Bedrock
-- CI/CD pipelines for ML lifecycle management
-- AI/ML R&D for self-healing DevOps systems
+* 🤖 AI agents and LLM-powered applications
+* 🔎 Retrieval-Augmented Generation (RAG)
+* 🧠 AI-assisted developer tools
+* ☁️ Cloud-native applications and infrastructure
+* 🔧 CI/CD, automation and developer workflows
+* 🧪 Testing, security and production reliability
+* 🏗️ Scalable backend and API architecture
 
-</td>
-<td width="50%">
-
-### 🏢 AI-ML Intership — EduSkills
-**Jan 2024 – Feb 2025**
-- PHP → Go migration
-- CI/CD pipeline design & optimization
-- AWS infrastructure (EC2, S3, Lambda)
-- Database management (SQL + NoSQL)
-- System reliability & performance tuning
-
-</td>
-</tr>
-
-</table>
+> **My goal isn't just to build AI demos — it's to learn how to build AI systems that can survive production.**
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🧰 Tech Stack
 
-<div align="center">
+### Languages
 
-| 🥇 Achievement | 📅 Year |
-|---|---|
-| 🪟 **Microsoft Associate-MLSA** — Associate milestone in MLSA global community | 2026 |
-| ☁️ **46 Azure Badges + 22 Trophies** on Microsoft Learn | 2025-26 |
-| 🔐 **Oracle Cloud AI Foundations** Certified | 2025 |
-| 🤖 **IBM Data Science** Certified | 2025 |
-| 🎓 **Google Student Ambassador** | 2025 |
-| 🧠 **Saylor Academy AI** Certified | 2025 |
+<p>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,c" />
+</p>
 
-</div>
+### AI / ML
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
 
-## 🛠️ Tech Stack
+**Python · Machine Learning · Generative AI · LLMs · RAG · AI Agents · Data Analysis**
 
-### ☁️ Cloud & DevOps
-<div align="center">
+### Web & Backend
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/Argo%20CD-1e0477?style=for-the-badge&logo=argo&logoColor=#d16044)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,django" />
+</p>
 
-</div>
+**REST APIs · Backend Systems · Authentication · Database Design**
 
-### 🤖 AI / ML / MLOps
-<div align="center">
+### Cloud & DevOps
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,githubactions,linux" />
+</p>
 
-</div>
+**AWS · Azure · GCP · Docker · CI/CD · Infrastructure Automation · GitHub Actions**
 
-### 💻 Languages & Frameworks
-<div align="center">
+### Databases & Tools
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
-</div>
-
-### 🗄️ Databases & Messaging
-<div align="center">
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,supabase,git,github,vscode" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 Selected Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uddhav05-cyber&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=070909&title_color=00ff87&text_color=c4d4cc&icon_color=00e5ff" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uddhav05-cyber&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=070909&title_color=00ff87&text_color=c4d4cc" height="165" />
-</div>
+### 🛰️ ORBIT — Production AI Engineering System
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=uddhav05-cyber&theme=dark&hide_border=true&background=070909&stroke=00ff87&ring=00ff87&fire=00e5ff&currStreakLabel=00ff87&sideLabels=c4d4cc&dates=3e5a4a" />
-</div>
+A long-term engineering project focused on building a **production-oriented AI agent system** rather than a simple chatbot.
 
----
+**Focus areas:**
 
-## 🏆 GitHub Trophies
+* Agent architecture
+* Repository understanding
+* Code search & relevance
+* Secure workspace abstraction
+* Path confinement & filesystem security
+* Automated testing
+* Production engineering practices
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=uddhav05-cyber&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+**Stack:** `Python` `AI/ML` `RAG` `Testing` `Security` `Developer Tooling`
 
 ---
 
-## 🔥 Featured Projects
+### 🇮🇳 Bharat-Setu
 
-<div align="center">
+An AI-powered platform concept designed around **rural resilience and intelligent decision support**.
 
-[![Mandi](https://github-readme-stats.vercel.app/api/pin/?username=uddhav05-cyber&repo=aqi-prediction-python&theme=dark&hide_border=true&bg_color=070909&title_color=00ff87&text_color=c4d4cc&icon_color=00e5ff)](https://github.com/uddhav05-cyber/aqi-prediction-python)
-[![Music Classifier](https://github-readme-stats.vercel.app/api/pin/?username=uddhav05-cyber&repo=Music-Preference-Classifier&theme=dark&hide_border=true&bg_color=070909&title_color=00ff87&text_color=c4d4cc&icon_color=00e5ff)](https://github.com/uddhav05-cyber/Music-Preference-Classifier)
+**Focus:**
 
-</div>
+* AI-powered insights
+* Rural ecosystem intelligence
+* Digital-twin concepts
+* Migration prediction
+* Cloud-native architecture
 
-> 🔒 **3 confidential projects** launching in 2026 — stay tuned!
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=uddhav05-cyber&bg_color=070909&color=00ff87&line=00e5ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+**Stack:** `Python` `AWS` `Amazon Bedrock` `AI/ML`
 
 ---
 
-## 🌐 Connect With Me
+### 💳 Recover.ai
 
-<div align="center">
+An AI-driven payment recovery concept focused on identifying and responding to **failed payment scenarios**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-uddhavbhople.in-00ff87?style=for-the-badge&logo=firefox&logoColor=black)](https://uddhavbhople.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-uddhav--bhople-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uddhav-bhople/)
-[![GitHub](https://img.shields.io/badge/GitHub-uddhav05--cyber-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uddhav05-cyber)
-[![Gmail](https://img.shields.io/badge/Gmail-uddhavbhople5%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uddhavbhople5@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+91%209022447409-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919022447409)
-[![Instagram](https://img.shields.io/badge/Instagram-uddhav__v-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/uddhav__v/)
+**Focus:**
 
-</div>
+* Payment failure analysis
+* Intelligent recovery workflows
+* AI-assisted decision making
+* FinTech infrastructure
+
+**Stack:** `Python` `AI` `APIs`
 
 ---
 
-<div align="center">
+### 🌐 Uddhav Codes
 
-[![](https://visitcount.itsvg.in/api?id=uddhav05-cyber&icon=6&color=0)](https://visitcount.itsvg.in)
+My personal developer portfolio showcasing projects, software engineering work and experiments.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff87&height=100&section=footer" />
+**Stack:** `TypeScript` `React` `Web Development`
 
-</div>
+---
+
+## 🏆 Experience & Community
+
+### Microsoft Learn Student Ambassador — Beta
+
+Working with the Microsoft student community to **learn, build and share technology** through workshops, events and developer-focused activities.
+
+### Google Student Ambassador
+
+Participating in Google's student community and technology initiatives.
+
+### YUVA Intern — NSDC
+
+Worked on software and AI-oriented engineering initiatives involving:
+
+* Cloud infrastructure
+* AI/ML experimentation
+* RAG systems
+* Automation
+* CI/CD
+
+---
+
+## 📜 Certifications & Milestones
+
+* 🪟 **Microsoft Learn Student Ambassador — Beta**
+* ☁️ **Oracle Cloud AI Foundations Certified**
+* 🧠 **IBM Data Science Certified**
+* 🤖 **Saylor Academy AI Certification**
+* 🌐 **Google Student Ambassador**
+* 🏅 **Microsoft Learn badges & trophies**
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=uddhav05-cyber&show_icons=true&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uddhav05-cyber&layout=compact&theme=transparent&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=uddhav05-cyber&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+```text
+Production AI Engineering
+        ↓
+LLM Applications & RAG
+        ↓
+AI Agents & Developer Tools
+        ↓
+Cloud Architecture
+        ↓
+Distributed Systems & System Design
+        ↓
+Production Reliability
+```
+
+I'm particularly interested in learning how to move from:
+
+**Prototype → Tested System → Deployable Product → Production System**
+
+---
+
+## 💡 Engineering Philosophy
+
+> Build things that solve real problems.
+> Understand the system behind the abstraction.
+> Test what you build.
+> Make security a requirement, not an afterthought.
+> Keep learning.
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/uddhav-bhople">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://dev.to/uddhav_bhople">
+<img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+</a>
+
+</p>
+
+### 📍 Pune, India
+
+**Building. Learning. Shipping. Repeating. 🚀**
+
+---
+
+<p align="center">
+  <i>Thanks for visiting my profile.</i>
+</p>
